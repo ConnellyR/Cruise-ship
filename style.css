@@ -21,4 +21,17 @@ h1
 	font-size: 280%;
    color:rgb(148,204,232);
 }
-#
+.centert
+{
+	text-align:center;
+}
+.centeri
+{
+	margin:auto;
+	display:block;
+}
+#t
+{
+	color: rgb(37,65,168);
+	font-size: 120%;
+}
