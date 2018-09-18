@@ -26,9 +26,16 @@ h1
 	display:block;
 	margin:auto;
 	
-}.centeri
+}
+.centeri
 {
 	margin:auto;
 	display::block;
 }
 
+
+#t
+{
+	color: rgb(37,65,168);
+	font-size: 120%;
+}
