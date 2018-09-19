@@ -1,6 +1,7 @@
 body
 {
 	background-color:rgb(148,204,232);
+	
 }
 p
 {
@@ -21,6 +22,7 @@ h1
 	font-size: 280%;
    color:rgb(37,65,160);
 }
+
 .ctext
 {
 	text-align:center;
@@ -28,16 +30,41 @@ h1
 	font-size: 120%;
 	
 	
-	
 }
 .cimg
 {
 	margin:auto;
-	display::block;
+	display:block;
 }
+
 
 li
 {
 	color:rgb(37,65,160);
 	font-size: 120%;
+}
+
+
+.Act
+{
+	text-align:center;
+	color: white;
+	font-size: 200%;
+}
+#surf
+{
+	position: relative;
+	display: block;
+}
+#sail
+{
+	position: relative;
+	display: block;
+	left:1700px;
+}
+#hImg
+{
+	background-image: url("Aerial-Ship.JPG");
+    background-repeat:no-repeat;
+
 }
