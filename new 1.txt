@@ -1,9 +1,0 @@
-<li><img src="i-like-boats-shirt.jpg" alt="I like Big Boats T-shirt"></li>
-        <li>$25.00</a></li> 
-		<li>Buy</a></li>
-		<li><img src="cruise-control-mug.jpg" alt="Cruise control mug"></li>
-        <li>$12.00</a></li>
-		<li>Buy</a></li>
-		<li><img src="family-cruise-sweatshirt.jpg" alt="Family Cruise sweatshirt" style="width:192.5px;height:192.5px;"></li>
-        <li>$45.00</a></li>
-		<li>Buy</a></li>

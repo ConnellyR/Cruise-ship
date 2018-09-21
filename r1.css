@@ -1,0 +1,19 @@
+.pics{
+	display: block;
+    margin-right: auto;
+	margin-left: auto;
+}
+
+p{
+	text-align: center;
+	color: rgb(37,65,168);
+}
+
+h1{
+	text-align: center;'
+	color: rgb(37,65,168);
+}
+
+body{
+	background-color: rgb(148,204,232);
+}
