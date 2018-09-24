@@ -48,6 +48,21 @@ li
 	color: white;
 	font-size: 200%;
 }
+
+.locations
+{
+	
+	margin: auto;
+    width: 50%;
+}
+
+.headers
+{
+	color: black;
+	font-size: 40px;
+}
+
+
 #surf
 {
 	position: relative;
