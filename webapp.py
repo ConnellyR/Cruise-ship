@@ -26,9 +26,9 @@ def render_page4():
 def render_page5():
     return render_template('Resturant1.html')
 
-@app.route("/Resturant2")
+@app.route("/resturant2")
 def render_page6():
-    return render_template('Resturant2.html')
+    return render_template('resturant2.html')
 
 @app.route("/locations")
 def render_page7():
